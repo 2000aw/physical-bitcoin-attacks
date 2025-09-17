@@ -149,6 +149,7 @@ Finally, [this academic paper](./Wrench_Attacks_Research.pdf) analyzing physical
 | December 12, 2022 | Chinese businessman | Philippines | [Chinese businessman kidnapped and held for six days in the Philippines](https://archive.vn/zSEIQ)
 | December 22, 2022 | Unidentified man | Little Elm, Texas, United States | [Armed gang invades home, torture victims for 3 hours, take jewelry, fail to find hardware wallet with $1.4m.](https://archive.ph/34qpX)|
 | Early January, 2023 | Karl Johnson | Salford, England | [Man knocks on door, threatens to assault victim, leaves after he sends some cryptocurrency.](https://archive.is/GTCVg)|
+|January, 2022 | David Balland| Paris, France | [Co-founder of French crypto firm freed after kidnapping](https://www.reuters.com/world/co-founder-french-crypto-firm-freed-after-kidnapping-2025-01-23/)|
 | January 14, 2023 | Crypto Company | Barcelona, Spain | [5 men stormed into a company's office armed with tasers and zip ties.](https://archive.ph/tAU6I)|
 | Late January, 2023 | Karl Johnson | Salford, England | [2 men knock on door, threaten victim with knife, leave after he sends cryptocurrency.](https://archive.is/GTCVg)|
 | February, 2023 | Saudi Royal | Melbourne, Australia | [TikTok influencer lures Saudi royal to her home where he was imprisoned until he handed over $40K in BTC.](https://archive.is/K2OW1)|
