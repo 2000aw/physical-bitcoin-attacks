@@ -34,6 +34,9 @@ Finally, [this academic paper](./Wrench_Attacks_Research.pdf) analyzing physical
 | January 14, 2018 | Pavel Nyashin | Leningrad Oblast, Russia | [Blogger Who Boasted About Crypto Wealth Beaten and Robbed For $425k](https://archive.is/OaOlP) |
 | January 15, 2018 | Maxsim Latsoka & Anna Nikurina | Phuket, Thailand | [Russian gang steals 100,000 Euros in BTC from young Russian couple](https://archive.is/9chQq) |
 | January 18, 2018 | \____ Lee | North Point, Hong Kong | [Bitcoin trader lured to bogus meeting and robbed of HK$1.4M](https://archive.is/TfDBF) | 
+| January 22, 2018 | Danny Aston (age 30) |	Moulsford, South Oxfordshire, England |	[shocking crypto robbery hits uk trader forced transfer bitcoin gunpoint]
+<img width="2571" height="63" alt="image" src="https://github.com/user-attachments/assets/4a564ca1-662b-4329-adbb-26d38db5e915" />
+
 | January 23, 2018 | Canadian Bitcoins | Ottawa, Canada | [Failed armed robbery attempt of Canadian bitcoin exchange](https://archive.is/Qzqb5) | 
 | January 27, 2018 | Danny Aston & Amy Jay | Moulsford, Oxfordshire, England | [Armed home invasion of Bitcoin trading firm owner](https://archive.is/rpCUg) | 
 | January 29, 2018 | Unidentified | Cumming, Georgia, United States | [Five men arrested for planning armed home invasion of bitcoin owner](https://archive.is/hVDKF) | 
@@ -102,6 +105,7 @@ Finally, [this academic paper](./Wrench_Attacks_Research.pdf) analyzing physical
 | August 8, 2021 | Wesley Pessano Santarem | Sao Pedro da Aldeia, Brazil | [Crypto Trader's Murder Blamed On Social Media Bragging](https://archive.is/2kfpq)|
 | August 18, 2021 | Simon Arthuis | Plancher-Bas, France | [Computer engineering student drugged, tortured, and killed by 5 men for €200,000 in cryptocurrency](https://archive.md/7mvSY)|
 | September ?, 2021 | Unidentified 31 y/o | Abkhazia | [Thieves break into garage, steal 20 mining servers worth $10,000.](https://archive.is/MPNwC)|
+| September ?, 2021 | Unidentified University Student | Canterbury, Englsand | [fresher loses 6,000 in 20 minute mugging] 
 | September 9, 2021 | Mark Geor | Westmere, New Zealand | [Safe containing $4M of cryptocurrency ripped from house](https://archive.md/y8m24)|
 | October, 2021 | Miner | Tomsk, Russia | [Armed Robbers attack Miner at his Home, Steal 86 BTC](https://archive.is/n1IfA)|
 | October 7, 2021 | Liquor Store | South Bay, California, United States | [Thieves Break Into Liquor Store to Steal Bitcoin ATM](https://archive.is/1caUw)|
